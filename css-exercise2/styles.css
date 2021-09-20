@@ -1,0 +1,23 @@
+/* styles.css */
+
+.lineone {
+    background-color: rgb(214, 104, 104);
+    font-family: Verdana, sans-serif;
+}
+
+#linetwo {
+    color: rgb(45, 45, 184);
+    font-size: 36px;
+}
+
+.linethree {
+    background-color: rgb(214, 104, 104);
+    font-family: Verdana, sans-serif;
+    font-size: 24px;
+}
+
+#linefour {
+    background-color: rgb(116, 187, 116);
+    font-size: 24px;
+    font-weight: bold;
+}

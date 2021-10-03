@@ -1,0 +1,24 @@
+/* Style Sheet */
+
+.box {
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+    border: solid gray;
+    padding: 15px;
+    background-color: blue;
+}
+
+.box_one {
+    border: solid red;
+    background-color: rgb(58, 30, 30);
+    color: white;
+    padding: 10px;
+}
+
+.box_one :hover {
+    border: white;
+    background-color: red;
+    color: white;
+    padding: 20px;
+}
